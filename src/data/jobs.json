@@ -1,0 +1,92 @@
+[
+    {
+      "id" : 1,
+      "title" : "Network Engineer",
+      "company" : "Jobbity Hub",
+      "location" : "Remote",
+      "salary" : "₦800,000",
+      "description" : "Ensures that everything is running smoothly at the company's intranet. "
+    },
+
+    {
+      "id" : 2,
+      "title" : "Business Analyst",
+      "company" : "Union Bank",
+      "location" : "Lagos",
+      "salary" : "₦700,000",
+      "description" : "Ensures the smooth running of products development lifecycle and handles tough challenges."
+    },
+
+    {
+      "id" : 3,
+      "title" : "Ux Researcher",
+      "company" : "Coddy Tech",
+      "location" : "Enugu",
+      "salary" : "₦500,000",
+      "description" : "Researches information about how clients feel about certain products and figure out the best designs and which that needs more attention.",
+      "available" : false
+    },
+
+    {
+      "id" : 4,
+      "title" : "Mobile Developer",
+      "company" : "Vertex systems",
+      "location" : "Lagos",
+      "salary" : "₦750,000",
+      "description" : "Creates cross-platform mobile applications."
+    },
+
+    {
+      "id" : 5,
+      "title" : "Content Creator",
+      "company" : "FlutterWave",
+      "location" : "Remote",
+      "salary" : "₦300,000",
+      "description" : "Creates engaging contents for the company's social media platforms."
+    },
+
+    {
+      "id" : 6,
+      "title" : "Software Engineer",
+      "company" : "Amazon Inc",
+      "location" : "Remote",
+      "salary" : "₦1,000,000",
+      "description" : "Ensures the efficiency of and crunch out code used for different Amazon product."
+    },
+
+    {
+      "id" : 7,
+      "title" : "Solution Consultant",
+      "company" : "Fidelity Bank",
+      "location" : "Benin city",
+      "salary" : "₦600,000",
+      "description" : "Builds innovative solutions that takes clients experience and engagement to the next level."
+    },
+
+    {
+      "id" : 8,
+      "title" : "Hardware Engineer",
+      "company" : "Aztech corps",
+      "location" : "Lagos",
+      "salary" : "₦670,000",
+      "description" : "creates new computing paradigms by pushing the boundaries of exixting computer hardware."
+    },
+
+    {
+      "id" : 9,
+      "title" : "Executive Recruiter",
+      "company" : "Google",
+      "location" : "Abuja",
+      "salary" : "₦500,000",
+      "description" : "Recruits brilliant candidates to join the Google team."
+    },
+
+    {
+      "id" : 10,
+      "title" : "Finance Manager",
+      "company" : "Leads Tech Inc",
+      "location" : "Port Harcourt",
+      "salary" : "₦300,000",
+      "description" : "Tracks finance performance and finds solution to large challenges."
+    }
+]
