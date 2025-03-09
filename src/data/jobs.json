@@ -5,7 +5,8 @@
       "company" : "Jobbity Hub",
       "location" : "Remote",
       "salary" : "₦800,000",
-      "description" : "Ensures that everything is running smoothly at the company's intranet. "
+      "description" : "Ensures that everything is running smoothly at the company's intranet. ",
+      "available":false
     },
 
     {
