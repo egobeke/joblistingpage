@@ -1,8 +1,9 @@
 import React, { useState, useEffect } from 'react';
 
-import JobCard from './JobCard/JobCard';
-import { Job } from './types';
-import jobsData from '../data/jobs.json';
+import JobCard from '../JobCard/JobCard';
+import { Job } from '../types';
+import jobsData from '../../data/jobs.json';
+import styles from './styles.module.css';
 
 const JobList: React.FC = () => {
     const [ jobs, setJobs] = useState<Job[]>([]);
@@ -13,9 +14,9 @@ const JobList: React.FC = () => {
 
     return (
       <div className="job-list">
-        <h1>Available Jobs</h1>
+        <h1 className={styles.availablejobs}>Available Jobs</h1>
         { jobs.length > 0 ? (
-            <div className="jobs-container">
+            <div className={styles.jobscontainer}>
                 { jobs.map( job =>(
                     <JobCard key={job.id} job={job}/>
                 ))}

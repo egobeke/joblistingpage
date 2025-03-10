@@ -1,5 +1,5 @@
 import React from 'react';
-import JobList from './components/JobList';
+import JobList from './components/JobList/JobList';
 import './App.css'; 
 
 function App() {
